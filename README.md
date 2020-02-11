@@ -70,7 +70,7 @@ echo $JAVA_HOME
 
 ## Authors
 
-* **Sergio Pérez** - [PurpleBooth](https://github.com/serpean)
+* **Sergio Pérez** - [Serpean](https://github.com/serpean)
 
 
 ## Acknowledgments
